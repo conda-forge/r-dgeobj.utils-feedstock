@@ -1,11 +1,11 @@
-About r-dgeobj.utils
-====================
+About r-dgeobj.utils-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dgeobj.utils-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=DGEobj.utils
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dgeobj.utils-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a function toolkit to facilitate reproducible RNA-Seq Differential Gene Expression (DGE) analysis (Law (2015) <doi:10.12688/f1000research.9005.3>).  The tools include both analysis work-flow and utility functions: mapping/unit conversion, count normalization, accounting for unknown covariates, and more.  This is a complement/cohort to the 'DGEobj' package that provides a flexible container to manage and annotate Differential Gene Expression analysis results.
 
